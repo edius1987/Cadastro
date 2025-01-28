@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cadastro"
+version = "0.1.0"
+description = ""
+authors = ["edius1987 <ediusferreira@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flet = "^0.26.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
